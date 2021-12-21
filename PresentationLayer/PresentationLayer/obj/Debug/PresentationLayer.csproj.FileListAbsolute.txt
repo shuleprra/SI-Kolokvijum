@@ -1,0 +1,16 @@
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\coa\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb

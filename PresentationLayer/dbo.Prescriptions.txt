@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[Prescriptions]
+(
+	[Id] INT IDENTITY NOT NULL PRIMARY KEY, 
+    [PatientName] NVARCHAR(50) NOT NULL, 
+    [PrescribedMedication] NVARCHAR(50) NOT NULL, 
+    [PrescriptionDate] DATETIME NOT NULL, 
+    [PrescriptionPrice] DECIMAL(18, 2) NOT NULL
+)
+
+
+
+
