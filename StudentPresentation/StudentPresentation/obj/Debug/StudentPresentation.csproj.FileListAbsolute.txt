@@ -1,0 +1,16 @@
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.csproj.AssemblyReference.cache
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.Form1.resources
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.Properties.Resources.resources
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.csproj.GenerateResource.cache
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.csproj.CoreCompileInputs.cache
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\StudentPresentation.exe.config
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\StudentPresentation.exe
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\StudentPresentation.pdb
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\BusinessLayer.dll
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\DataLayer.dll
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\BusinessLayer.pdb
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\bin\Debug\DataLayer.pdb
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.csproj.CopyComplete
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.exe
+C:\Users\coa\source\repos\StudentPresentation\StudentPresentation\obj\Debug\StudentPresentation.pdb

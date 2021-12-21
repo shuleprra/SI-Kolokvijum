@@ -1,0 +1,10 @@
+CREATE TABLE [dbo].[Students]
+(
+	[Id] INT IDENTITY NOT NULL PRIMARY KEY, 
+    [StudentName] NVARCHAR(50) NOT NULL, 
+    [IndexNumber] NVARCHAR(10) NOT NULL, 
+    [PointsESPB] INT NOT NULL, 
+    [StudyYear] INT NOT NULL, 
+    [AverageMark] DECIMAL(18, 2) NOT NULL, 
+    [IsBudget] BIT NOT NULL
+)
